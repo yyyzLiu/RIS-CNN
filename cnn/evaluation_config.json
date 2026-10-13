@@ -1,0 +1,10 @@
+{
+  "checkpoint": null,
+  "batch_size": null,
+  "device": null,
+  "data": {
+    "dataset": "data/test",
+    "groups": null,
+    "samples_per_group": null
+  }
+}

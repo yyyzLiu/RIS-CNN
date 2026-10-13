@@ -1,0 +1,173 @@
+{
+  "format": "RIS total-field samples",
+  "total_training_samples": 24000,
+  "total_test_samples": 550,
+  "total_training_bytes": 1191310607,
+  "total_test_bytes": 34439714,
+  "training_groups": [
+    {
+      "folder": "10by10_0deg",
+      "size": 10,
+      "incident_angle_deg": 0,
+      "samples": 2000,
+      "bytes": 55482533
+    },
+    {
+      "folder": "10by10_10deg",
+      "size": 10,
+      "incident_angle_deg": 10,
+      "samples": 2000,
+      "bytes": 55727912
+    },
+    {
+      "folder": "10by10_20deg",
+      "size": 10,
+      "incident_angle_deg": 20,
+      "samples": 2000,
+      "bytes": 55829810
+    },
+    {
+      "folder": "10by10_30deg",
+      "size": 10,
+      "incident_angle_deg": 30,
+      "samples": 2000,
+      "bytes": 55831031
+    },
+    {
+      "folder": "10by10_40deg",
+      "size": 10,
+      "incident_angle_deg": 40,
+      "samples": 2000,
+      "bytes": 55770288
+    },
+    {
+      "folder": "10by10_50deg",
+      "size": 10,
+      "incident_angle_deg": 50,
+      "samples": 2000,
+      "bytes": 55850072
+    },
+    {
+      "folder": "16by16_0deg",
+      "size": 16,
+      "incident_angle_deg": 0,
+      "samples": 2000,
+      "bytes": 142121699
+    },
+    {
+      "folder": "16by16_10deg",
+      "size": 16,
+      "incident_angle_deg": 10,
+      "samples": 2000,
+      "bytes": 142949594
+    },
+    {
+      "folder": "16by16_20deg",
+      "size": 16,
+      "incident_angle_deg": 20,
+      "samples": 2000,
+      "bytes": 142936973
+    },
+    {
+      "folder": "16by16_30deg",
+      "size": 16,
+      "incident_angle_deg": 30,
+      "samples": 2000,
+      "bytes": 142905337
+    },
+    {
+      "folder": "16by16_40deg",
+      "size": 16,
+      "incident_angle_deg": 40,
+      "samples": 2000,
+      "bytes": 142938091
+    },
+    {
+      "folder": "16by16_50deg",
+      "size": 16,
+      "incident_angle_deg": 50,
+      "samples": 2000,
+      "bytes": 142967267
+    }
+  ],
+  "test_groups": [
+    {
+      "folder": "10by10_0deg",
+      "size": 10,
+      "incident_angle_deg": 0,
+      "samples": 50,
+      "bytes": 1387030
+    },
+    {
+      "folder": "10by10_30deg",
+      "size": 10,
+      "incident_angle_deg": 30,
+      "samples": 50,
+      "bytes": 1395754
+    },
+    {
+      "folder": "10by10_45deg",
+      "size": 10,
+      "incident_angle_deg": 45,
+      "samples": 50,
+      "bytes": 1394399
+    },
+    {
+      "folder": "12by12_25deg",
+      "size": 12,
+      "incident_angle_deg": 25,
+      "samples": 50,
+      "bytes": 2010196
+    },
+    {
+      "folder": "12by12_30deg",
+      "size": 12,
+      "incident_angle_deg": 30,
+      "samples": 50,
+      "bytes": 2008359
+    },
+    {
+      "folder": "14by14_10deg",
+      "size": 14,
+      "incident_angle_deg": 10,
+      "samples": 50,
+      "bytes": 2734707
+    },
+    {
+      "folder": "14by14_25deg",
+      "size": 14,
+      "incident_angle_deg": 25,
+      "samples": 50,
+      "bytes": 2734460
+    },
+    {
+      "folder": "16by16_30deg",
+      "size": 16,
+      "incident_angle_deg": 30,
+      "samples": 50,
+      "bytes": 3572679
+    },
+    {
+      "folder": "16by16_45deg",
+      "size": 16,
+      "incident_angle_deg": 45,
+      "samples": 50,
+      "bytes": 3573831
+    },
+    {
+      "folder": "20by20_25deg",
+      "size": 20,
+      "incident_angle_deg": 25,
+      "samples": 50,
+      "bytes": 5585787
+    },
+    {
+      "folder": "24by24_30deg",
+      "size": 24,
+      "incident_angle_deg": 30,
+      "samples": 50,
+      "bytes": 8042512
+    }
+  ],
+  "license": "CC-BY-4.0"
+}
